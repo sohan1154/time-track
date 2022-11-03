@@ -10,8 +10,9 @@ Instructions for installing and running the project:-
 	- Project will run successfully.
 	
 We used two libraries for chart and vector icons.
-    - https://www.npmjs.com/package/react-native-chart-kit 
-    - https://www.npmjs.com/package/react-native-vector-icons 
+
+	- https://www.npmjs.com/package/react-native-chart-kit
+	- https://www.npmjs.com/package/react-native-vector-icons 
 
 If facing issues during react native or node setup ,if your machine doesn't have it. Please visit
 https://reactnative.dev/docs/environment-setup and follow the docs or feel free to contact anytime.
